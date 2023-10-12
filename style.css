@@ -1,0 +1,244 @@
+.box-1 {
+    background-color: rgb(74, 225, 193);
+    width: 500px;
+    height: 500px;
+    margin: 30px auto;
+    border-radius: 14px;
+}
+
+.data {
+    padding-top: 20%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.title-1 {
+    padding: 45px 0px 17px 45px;
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+.text-1 {
+    padding-left: 45px;
+    font-size: 16px;
+    font-weight: 543;
+
+}
+
+.btn-1 {
+    border: none;
+    background-color: white;
+    padding: 12px 40px;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 40px;
+    margin-left: 45px;
+    margin-top: 25px;
+}
+
+.box-2 {
+    border: 2px solid lightgray;
+    width: 500px;
+    height: 400px;
+    margin: 30px auto;
+    border-radius: 14px;
+}
+
+.padding {
+    padding: 0px 0px 17px 45px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.title-2 {
+    font-size: 30px;
+    color: rgb(74, 70, 70);
+    font-weight: bold;
+    margin-bottom: 0px;
+
+}
+
+.text-2 {
+    font-size: 20px;
+    color: rgb(74, 70, 70);
+    font-weight: 500;
+    padding-right: 13%;
+    margin-top: 10px;
+
+}
+
+.img-2 {
+    width: 100%;
+    border-radius: 50px;
+
+}
+
+.img-div {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    padding-right: 80px;
+    padding-top: 25px;
+
+}
+
+.img-holder {
+    padding-left: 35px;
+}
+
+.sub-box-2 {
+    margin-top: 40px;
+    border-top: 2px solid lightgray;
+}
+
+.btn-2 {
+    border: none;
+    color: rgb(22, 105, 248);
+    background-color: white;
+    padding-top: 20px;
+    font-weight: 530;
+    font-size: 20px;
+}
+
+.box-3 {
+    border: 2px solid lightgray;
+    width: 500px;
+    height: 650px;
+    margin: 30px auto;
+    border-radius: 14px;
+}
+
+.img-3 {
+    width: 100%;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+    height: 40%;
+    padding-bottom: 10px;
+}
+
+.padding-3 {
+    padding: 10px 0px 5px 45px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.text-3 {
+    font-size: 18px;
+    color: rgb(95, 91, 91);
+    font-weight: 700;
+}
+
+.sub-3 {
+    display: inline-block;
+}
+
+.lock-icon {
+    margin-top: 1px;
+    margin-right: 10px;
+}
+
+.title-3 {
+    font-size: 30px;
+    color: rgb(74, 70, 70);
+    font-weight: 400;
+    margin: 0px;
+    padding-right: 50px;
+}
+
+.normal-text-3 {
+    font-size: 24px;
+    color: rgb(83, 81, 81);
+    padding-right: 45px;
+    margin-bottom: 0px;
+    font-weight: 400;
+}
+
+.eligible-text-3 {
+    margin-top: 5px;
+}
+
+.btn-3 {
+    border: 2px solid lightgray;
+    color: rgb(57, 99, 238);
+    border-radius: 4px;
+    background-color: white;
+    padding: 10px 42px;
+    font-size: 20px;
+    margin-top: 24px;
+}
+
+.box-4 {
+    /* border: 2px solid lightgray; */
+    width: 400px;
+    height: 540px;
+    margin: 60px auto;
+    border-radius: 14px;
+    text-align: center;
+}
+.input{
+    width: 100%;
+    margin-bottom: 11px;
+    padding: 15px;
+    box-sizing: border-box;
+    border-radius: 12px;
+    border:1px solid lightgray;
+    font-size: 16px;
+}
+input::placeholder {
+    color: rgb(83, 81, 81);
+    padding-left: 8px;
+  }
+.title-4{
+    font-size: 70px;
+    font-weight: 700;
+    font-family: 'sans-serif';
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+}
+.sub-title-4{
+    margin-top: 0px;
+    margin-bottom: 25px;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Lucida Sans';
+}
+.btn-4{
+    border: none;
+    color: white;
+    border-radius: 40px;
+    background-color: black;
+    padding: 15px 45px;
+    font-size: 20px;
+    margin-top: 24px;
+}
+.signup-box{
+    margin:40px;
+    font-family: 'Lucida Sans';
+}
+.underline-text{
+    color: rgb(83, 81, 81);
+    text-decoration: underline;
+    font-weight: 900;
+}
+.text-4{
+    color: rgb(149, 145, 145);
+    
+}
+.foot-text{
+    font-size: 13px;
+    text-align: center;
+    color: rgb(149, 145, 145);
+    font-weight: 200;
+}
+.underline{
+    text-decoration: underline;
+}
+.placeholder{
+    position: absolute;
+    left: 343px;
+    top:17px;
+    color: rgb(149, 145, 145);
+    font-size: 14px;
+}
+.password-box{
+    position: relative;
+}
